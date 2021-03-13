@@ -599,8 +599,8 @@ ul.social-icons li a:hover{
   .carousel-caption p{
     font-size: 16px;
   }
-  #points-section{
-    margin-top: -50px;
+  #points-section {
+    margin-top: -50px !important;
   }
 }
 
