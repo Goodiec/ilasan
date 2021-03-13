@@ -72,6 +72,9 @@ html{
   @media only screen and (max-width: 767px) {
     .breadcrumb-title {
       font-size: 25px; } 
+  #points-section{
+    margin-top: -50px;
+  }
 }
 
 /*Navigation Bar*/
