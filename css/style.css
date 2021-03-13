@@ -72,8 +72,10 @@ html{
   @media only screen and (max-width: 767px) {
     .breadcrumb-title {
       font-size: 25px; } 
+}
+@media only screen and (max-width: 500px) {
   #points-section{
-    margin-top: -50px;
+    margin-top: 0;
   }
 }
 
